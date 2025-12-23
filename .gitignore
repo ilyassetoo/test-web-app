@@ -1,5 +1,4 @@
-tmp/todo.txt
 images
 tmp/*.txt
-tmp
+tmp/
 *.xml
