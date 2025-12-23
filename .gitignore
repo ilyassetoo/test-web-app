@@ -1,4 +1,8 @@
 tmp/todo.txt
 images
 tmp/*.txt
+<<<<<<< HEAD
 tmp
+=======
+*.xml
+>>>>>>> 2af991344a353ad05b2a156733c4a0e880739652
